@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/25sdev#gh-light-mode-only)
+[https://w7.pngwing.com/pngs/915/5/png-transparent-youtube-computer-icons-logo-sketch-sketchpad.png](https://www.youtube.com/25sdev#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/25sdev#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/haduc.25#gh-light-mode-only)

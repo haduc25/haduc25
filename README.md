@@ -1,4 +1,4 @@
-# Hi there, I'm Haduc25 [25S][youtube] 👋 
+# Hi there, I'm Haduc25 - [25S][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCG4XEKnESXpFicBbTbVGvZw?style=flat-square)][youtube]
 

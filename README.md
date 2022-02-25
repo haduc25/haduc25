@@ -15,8 +15,10 @@
 ### Connect with me:
 
 - Email: haducvcvb@gmail.com
-- Youtube: [25S][youtube]
+- Facebook: [Ha Duc][facebook]
 - Instagram: [Haduc.25][instagram]
+- Youtube: [25S][youtube]
+
 
 
 ### Languages and Tools:
@@ -55,3 +57,4 @@
 
 [youtube]: https://youtube.com/25sdev
 [instagram]: https://www.instagram.com/haduc.25
+[facebook]: https://www.facebook.com/haduc.25.09

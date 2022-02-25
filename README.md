@@ -3,8 +3,8 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCG4XEKnESXpFicBbTbVGvZw?style=flat-square)][youtube]
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
+## I'm a Third-year student, Developer, and Gamer!! 😊
+ 
 - 🔭 I'm passionate about Machine Learning and Something 🤣
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3

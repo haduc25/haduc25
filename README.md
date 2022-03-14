@@ -3,7 +3,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCG4XEKnESXpFicBbTbVGvZw?style=flat-square)][youtube]
 
 
-## I'm a Third-year student, Developer, and Gamer!! 😊
+## I'm a Third-year student, Developer and Gamer!! 😊
  
 - 🔭 I'm passionate about Machine Learning and Something 🤣
 - 🌱 I’m currently learning everything 🤣

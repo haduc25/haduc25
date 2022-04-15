@@ -10,6 +10,7 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⭐ Trying to do better
 - ⚡ Fun fact: I love to music and play videos game / FPS
+- 😆 No pain no gain :3
 
 
 ### Connect with me:

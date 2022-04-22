@@ -43,6 +43,7 @@
 <!-- YOUTUBE:START -->
 - [React Native - Ứng dụng quét mã vạch kiểm tra giá sản phẩm [Demo] | 25S](https://youtu.be/IKWuL2mDqgg)
 - [How to change font style, size for label C# Winform | 25S](https://youtu.be/T07kO6bOhxI)
+- [[C# & Tool] - Kiểm tra & lấy dữ liệu Valorant NightMarkets tự động  | 25S](https://youtu.be/Q6x8UDLbr7U)
 
 <!-- YOUTUBE:END -->
 

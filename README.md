@@ -1,7 +1,7 @@
 # Hi there, I'm Haduc25 - [25S][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCG4XEKnESXpFicBbTbVGvZw?style=flat-square)][youtube]
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCG4XEKnESXpFicBbTbVGvZw?style=flat-square)][youtube]
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCG4XEKnESXpFicBbTbVGvZw?style=flat-square)][youtubeAbout]
 
 
 
@@ -60,5 +60,6 @@
 </details>
 
 [youtube]: https://youtube.com/25sdev
+[youtubeAbout]: https://youtube.com/25sdev/about
 [instagram]: https://www.instagram.com/haduc.25
 [facebook]: https://www.facebook.com/haduc.25.09

@@ -1,6 +1,8 @@
 # Hi there, I'm Haduc25 - [25S][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCG4XEKnESXpFicBbTbVGvZw?style=flat-square)][youtube]
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCG4XEKnESXpFicBbTbVGvZw?style=flat-square)][youtube]
+
 
 
 ## I'm a Third-year student, Developer and Gamer!! 😊

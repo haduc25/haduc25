@@ -1,8 +1,8 @@
 # Hi there, I'm Haduc25 👋 
 
 
-## I'm a Third-year student, Developer !! 😊
- 
+## About Me
+### I'm a Fourth-year Computer Science Student, Developer !! 😊
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Learn more about python & deep learning
 - ⭐ Trying to do better
@@ -12,12 +12,14 @@
 
 ### Connect with me:
 
-- Email: haducvcvb@gmail.com
-- Facebook: [Ha Duc][facebook]
-- Instagram: [Haduc.25][instagram]
+- 📧 Email: haducvcvb@gmail.com
+- 📘 Facebook: [Ha Duc][facebook]
+- 📷 Instagram: [Haduc.25][instagram]
 
 
 ### Languages and Tools:
+
+Here are some of the languages and tools I have experience with:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />

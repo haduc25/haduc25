@@ -1,8 +1,4 @@
-# Hi there, I'm Haduc25 - [25S][youtube] 👋 
-
-<!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCG4XEKnESXpFicBbTbVGvZw?style=flat-square)][youtube]
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCG4XEKnESXpFicBbTbVGvZw?style=flat-square)][youtubeAbout] -->
-
+# Hi there, I'm Haduc25 👋 
 
 
 ## I'm a Third-year student, Developer and Gamer!! 😊
@@ -20,8 +16,6 @@
 - Email: haducvcvb@gmail.com
 - Facebook: [Ha Duc][facebook]
 - Instagram: [Haduc.25][instagram]
-- Youtube: [25S][youtube]
-
 
 
 ### Languages and Tools:
@@ -38,20 +32,6 @@
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [React Native - Ứng dụng quét mã vạch kiểm tra giá sản phẩm [Demo] | 25S](https://youtu.be/IKWuL2mDqgg)
-- [How to change font style, size for label C# Winform | 25S](https://youtu.be/T07kO6bOhxI)
-- [[C# & Tool] - Kiểm tra & lấy dữ liệu Valorant NightMarkets tự động  | 25S](https://youtu.be/Q6x8UDLbr7U)
-
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/25sdev)
-
----
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -59,7 +39,5 @@
 
 </details>
 
-[youtube]: https://youtube.com/25sdev
-[youtubeAbout]: https://youtube.com/25sdev/about
 [instagram]: https://www.instagram.com/haduc.25
 [facebook]: https://www.facebook.com/haduc.25.09
